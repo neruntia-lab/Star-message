@@ -1,0 +1,14 @@
+.star-flag {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  cursor: pointer;
+  font-size: 14px;
+  z-index: 10;
+}
+.star-message-container {
+  position: relative;
+}
+.text-yellow {
+  color: #ffcb6b;
+}

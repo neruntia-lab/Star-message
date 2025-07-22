@@ -1,0 +1,14 @@
+{
+  "name": "star-message",
+  "title": "Star Message",
+  "description": "Allow marking chat messages so they are not deleted when clearing the chat log.",
+  "author": "Codex",
+  "version": "1.0.0",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "13",
+  "scripts": ["scripts/star-message.js"],
+  "styles": ["styles/star-message.css"],
+  "url": "https://example.com",
+  "manifest": "https://example.com/module.json",
+  "download": "https://example.com/module.zip"
+}
