@@ -1,9 +1,9 @@
 {
   "name": "star-message",
   "title": "Star Message",
-  "description": "Allows protecting chat messages from deletion with a star icon.",
+  "description": "Allows protecting chat messages from deletion.",
   "version": "1.0.0",
-  "author": "ChatGPT",
+  "author": "Noise",
   "minimumCoreVersion": "12",
   "compatibleCoreVersion": "13",
   "scripts": ["scripts/main.js"],
@@ -12,7 +12,7 @@
   "packs": [],
   "systems": [],
   "languages": [],
-  "url": "https://example.com",
-  "manifest": "https://example.com/module.json",
-  "download": "https://example.com/module.zip"
+  "url": "",
+  "manifest": "https://github.com/neruntia-lab/Star-message/releases/download/1.0.0/module.json",
+  "download": "https://github.com/neruntia-lab/Star-message/releases/download/1.0.0/star-message.zip"
 }
