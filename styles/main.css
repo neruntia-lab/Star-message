@@ -1,0 +1,11 @@
+.chat-message .message-header { position: relative; }
+.star-message-pin {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  color: var(--color-text-light-5);
+  cursor: pointer;
+}
+.star-message-pin i.fa-solid {
+  color: gold;
+}
