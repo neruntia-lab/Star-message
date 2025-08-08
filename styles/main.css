@@ -1,11 +1,13 @@
-.chat-message .message-header { position: relative; }
 .star-message-pin {
-  position: absolute;
-  top: 4px;
-  left: 4px;
+  margin-left: 4px;
   color: var(--color-text-light-5);
   cursor: pointer;
 }
 .star-message-pin i.fa-solid {
   color: gold;
+}
+
+.chat-message.star-message-protected,
+.message.star-message-protected {
+  border: 2px solid #FFD700 !important;
 }
